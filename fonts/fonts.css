@@ -1,0 +1,17 @@
+@font-face {
+  src: url("./gilroy-regular.ttf") format("truetype");
+  font-family: "Gilroy";
+  font-weight: normal;
+}
+
+@font-face {
+  src: url("./gilroy-semibold.ttf") format("truetype");
+  font-family: "Gilroy";
+  font-weight: bold;
+}
+
+@font-face {
+  src: url("./HomemadeApple-Regular.ttf") format("truetype");
+  font-family: "Homemade Apple";
+  font-weight: normal;
+}
