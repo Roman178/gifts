@@ -1,0 +1,7 @@
+.in-half__text-container {
+  width: 433px;
+  min-height: 411px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

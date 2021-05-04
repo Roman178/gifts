@@ -14,37 +14,102 @@
         <nav class="navbar">
           <p class="logo">logo</p>
           <ul class="navbar__list">
-            <li class="navbar__list-item">Home</li>
-            <li class="navbar__list-item">About Us</li>
-            <li class="navbar__list-item">Services</li>
-            <li class="navbar__list-item">Blogs</li>
+            <li class="navbar__list-item">
+              <a href="#" class="navbar__link">Home</a>
+            </li>
+            <li class="navbar__list-item">
+              <a href="#" class="navbar__link">About Us</a>
+            </li>
+            <li class="navbar__list-item">
+              <a href="#" class="navbar__link">Services</a>
+            </li>
+            <li class="navbar__list-item">
+              <a href="#" class="navbar__link">Blogs</a>
+            </li>
           </ul>
-          <button class="btn btn_size_small btn_color_white-orange"></button>
+          <button class="btn btn_size_xs">
+            <p class="btn__text">GIFT FINDER</p>
+          </button>
         </nav>
-        <section class="title-left-img-right">
-          <div class="title-left-img-right__left">
-            <div class="title-left-img-right__container">
-              <h1 class="title-left-img-right__title">
-                Find a gift for your wife or girlfriend
-              </h1>
-              <p class="title-left-img-right__subtitle">
+        <section class="in-half">
+          <div class="in-half__text-side">
+            <div class="in-half__text-container">
+              <h1 class="title">Find a gift for your wife or girlfriend</h1>
+              <p class="paragraph">
                 Struggling to find a gift for your wife or girlfriend? No
                 problem!
               </p>
-              <button class="btn">FIND GIFT NOW</button>
+              <button class="btn btn_bckg-color_orange">
+                <p class="btn__text btn__text_font-color_white">
+                  FIND GIFT NOW
+                </p>
+              </button>
             </div>
           </div>
-          <div class="title-left-img-right__right">
+          <div class="in-half__image-side">
             <img
-              class="title-left-img-right__img"
-              src="/images/Background.png"
+              class="in-half__image"
+              src="images/Background.png"
               alt="Main image"
             />
           </div>
         </section>
       </header>
-      <section class="how-we-work"></section>
-      <section class="occasions"></section>
+      <section class="in-half">
+        <div class="in-half__image-side">
+          <img
+            class="in-half__image"
+            src="images/MediaBackground.png"
+            alt="Second image"
+          />
+        </div>
+        <div class="in-half__text-side">
+          <div class="in-half__text-container in-half__text-container_cut">
+            <h2 class="subtitle">How we work</h2>
+            <p class="paragraph">
+              We’ve actually already asked hundreds of women what they want, and
+              made a database with the results. All you have to do is take our
+              short survey that only takes seconds, and our proprietary
+              algorithm will match you with a few perfect gift options.
+            </p>
+            <button class="btn">
+              <p class="btn__text">LEARN MORE</p>
+            </button>
+          </div>
+        </div>
+      </section>
+      <section class="occasions">
+        <h2 class="subtitle subtitle_type_section-title">
+          Gifts for all Occasions
+        </h2>
+        <p class="paragraph paragraph_small paragraph_type_section-subtitle">
+          “Try our web app to find the best gifts for all occasions”
+        </p>
+        <ul class="occasions__cards">
+          <li class="occasions__card">
+            <img src="images/Birthday.png" alt="Birthday" />
+            <div class="occasions__paragraphs-container">
+              <p class="paragraph">Birthday</p>
+              <p class="occasions__see-more">See More</p>
+            </div>
+          </li>
+          <li class="occasions__card">
+            <img src="images/Anniversary.png" alt="Anniversary" />
+            <p class="paragraph">Anniversary</p>
+            <p class="occasions__see-more">See More</p>
+          </li>
+          <li class="occasions__card">
+            <img src="images/ValentinesDay.png" alt="Valentine's Day" />
+            <p class="paragraph">Valentine's Day</p>
+            <p class="occasions__see-more">See More</p>
+          </li>
+          <li class="occasions__card">
+            <img src="images/Christmas.png" alt="Christmas" />
+            <p class="paragraph">Christmas</p>
+            <p class="occasions__see-more">See More</p>
+          </li>
+        </ul>
+      </section>
       <section class="cta"></section>
       <section class="blogs"></section>
       <footer class="footer"></footer>
