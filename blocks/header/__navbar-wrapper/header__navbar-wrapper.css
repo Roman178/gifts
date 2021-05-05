@@ -1,0 +1,7 @@
+.header__navbar-wrapper {
+  min-height: 116px;
+  display: flex;
+  padding-left: 80px;
+  padding-right: 34px;
+  background-color: #fafafa;
+}

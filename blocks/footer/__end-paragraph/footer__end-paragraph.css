@@ -1,0 +1,7 @@
+.footer__end-paragraph {
+  margin: 0 14px 0 0;
+}
+
+.footer__end-paragraph:last-child {
+  margin: 0;
+}

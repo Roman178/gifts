@@ -1,3 +1,7 @@
 .btn_bckg-color_orange {
   background-color: #f7941e;
 }
+
+.btn_bckg-color_orange:hover {
+  filter: brightness(0.8);
+}

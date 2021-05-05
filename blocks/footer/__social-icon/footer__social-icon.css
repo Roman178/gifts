@@ -1,0 +1,7 @@
+.footer__social-icon {
+  margin-right: 25.6px;
+}
+
+.footer__social-icon:last-child {
+  margin: 0;
+}

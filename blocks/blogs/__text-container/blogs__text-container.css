@@ -1,0 +1,7 @@
+.blogs__text-container {
+  margin-left: 78px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

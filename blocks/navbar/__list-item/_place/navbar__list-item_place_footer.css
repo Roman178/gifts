@@ -1,0 +1,11 @@
+.navbar__list-item_place_footer {
+  margin: 0;
+}
+
+.navbar__list-item_place_footer:first-child {
+  margin-right: 81px;
+}
+
+.navbar__list-item_place_footer:last-child {
+  margin-left: 81px;
+}

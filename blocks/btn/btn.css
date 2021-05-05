@@ -6,4 +6,13 @@
   background-color: rgba(0, 0, 0, 0);
   border: 1px solid #f7941e;
   cursor: pointer;
+  color: #f7941e;
+  font-size: 18px;
+  line-height: 22px;
+  transition: all 0.2s linear;
+}
+
+.btn:hover {
+  background-color: #f7941e;
+  color: #fff;
 }

@@ -3,4 +3,5 @@
   flex-direction: column;
   align-items: stretch;
   font-family: "Gilroy", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  scroll-behavior: smooth;
 }

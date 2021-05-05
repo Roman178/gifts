@@ -1,0 +1,4 @@
+.footer__end {
+  display: flex;
+  justify-content: space-between;
+}

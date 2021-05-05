@@ -1,9 +1,7 @@
 .navbar {
+  flex-basis: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-left: 80px;
-  padding-right: 34px;
-  min-height: 116px;
   background-color: #fafafa;
 }

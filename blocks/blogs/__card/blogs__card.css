@@ -1,0 +1,14 @@
+.blogs__card {
+  padding: 50px;
+  flex-basis: 570px;
+  min-height: 290px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: box-shadow 0.2s linear;
+}
+
+.blogs__card:hover {
+  box-shadow: 7px 7px 15px rgb(0 0 0 / 5%);
+}

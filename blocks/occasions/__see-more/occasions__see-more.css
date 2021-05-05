@@ -3,4 +3,10 @@
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 19px;
+  cursor: pointer;
+  transition: opacity 0.2s linear;
+}
+
+.occasions__see-more:hover {
+  opacity: 0.6;
 }

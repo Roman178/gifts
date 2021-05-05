@@ -2,4 +2,10 @@
   background-color: rgba(0, 0, 0, 0);
   color: #000;
   border: 1px solid #000000;
+  transition: all 0.2s linear;
+}
+
+.cta__btn_limpid:hover {
+  background-color: #000;
+  color: #fff;
 }
