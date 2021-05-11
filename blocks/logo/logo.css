@@ -2,5 +2,8 @@
   margin: 0;
   font-family: "Homemade Apple", Arial, Helvetica, sans-serif;
   font-size: 18px;
+  color: inherit;
   line-height: 39px;
+  text-decoration: none;
+  cursor: pointer;
 }

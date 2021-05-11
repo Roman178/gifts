@@ -13,19 +13,13 @@
 @import url("../blocks/navbar/__list/navbar__list.css");
 @import url("../blocks/navbar/__list-item/navbar__list-item.css");
 @import url("../blocks/navbar/__link/navbar__link.css");
-
 @import url("../blocks/navbar/_place/navbar_place_footer.css");
 @import url("../blocks/navbar/__link/_place/navbar__link_place_footer.css");
 @import url("../blocks/navbar/__list-item/_place/navbar__list-item_place_footer.css");
-
 @import url("../blocks/logo/logo.css");
-@import url("../blocks/logo/__link/logo__link.css");
-
 @import url("../blocks/logo/_place/logo_place_footer.css");
-
 @import url("../blocks/btn/btn.css");
-@import url("../blocks/btn/_font-color/btn__font-color_white.css");
-
+@import url("../blocks/btn/_font-color/btn_font-color_white.css");
 @import url("../blocks/btn/_bckg-color/btn_bckg-color_orange.css");
 @import url("../blocks/btn/_size/btn_size_xs.css");
 @import url("../blocks/in-half/in-half.css");
