@@ -1,10 +1,10 @@
-# Training project: Gift Finder landing
-
-Gift Finder helps you find gifts for your significant other for any occasion.
-**The project will be finalized. Scripts and responsive design will be added.**
-
-### Stack
-_HTML/CSS/BEM_
+# Pet-project (учебный проект): Gift Finder.
 
 ### Deployment
-The project is deployed [here](https://roman178.github.io/gifts).
+Проект развернут [здесь](https://roman178.github.io/gifts).
+
+Gift Finder помогает найти подарки для второй половинки по любому поводу.
+**Проект будет доработан. Будут добавлены скрипты и адаптивный дизайн.**
+
+### Стэк
+_HTML/CSS/BEM_
